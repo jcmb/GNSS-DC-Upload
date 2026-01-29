@@ -2,8 +2,8 @@
 
 # 1. Configuration & Argument Parsing
 #    Usage: ./upload.sh <filename> [server] [path]
-DEFAULT_PASS="admin"
-DEFAULT_USER="password"
+DEFAULT_PASS="password"
+DEFAULT_USER="admin"
 DEFAULT_SERVER="gnss.local."
 
 #DEFAULT_PASS="Tr.imble1!"
